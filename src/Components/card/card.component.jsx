@@ -7,5 +7,6 @@ export const Card=props=>(
         <h2>{props.monster.name}</h2>
         <p>{props.monster.email}</p>
         <p>Address: Bahrain</p>
+        <p>Phone Number: 810-555-5555</p>
     </div>
 )
